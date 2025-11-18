@@ -1,5 +1,4 @@
-import React from "react";
-import { Award, Rocket, Phone } from "lucide-react";
+import { Award, Rocket } from "lucide-react";
 import { usePortfolioData } from "../utils/usePortfolioData";
 import useTheme from "../hooks/useTheme";
 import { theme as themes } from "../theme/theme";
@@ -47,11 +46,6 @@ const About = ({ isVisible }) => {
             <p className={`${t.textSecondary} leading-relaxed mb-4 font-light`}>
               {data.about.focus}
             </p>
-
-            <div className={`flex items-center gap-2 ${t.accent} font-medium`}>
-              <Phone size={18} />
-              <span>{data.profile.phone}</span>
-            </div>
           </div>
         </div>
       </div>

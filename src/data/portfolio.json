@@ -1,9 +1,8 @@
 {
-   "profile": {
+  "profile": {
     "name": "Arjun T",
     "role": "Python Backend Developer | Team Lead",
     "tagline": "Architecting secure, scalable backend systems with Django, DRF, FastAPI, Celery, Redis, Docker & ML integration.",
-    "phone": "+91 9961041854",
     "email": "mailtoarjunt@zohomail.in",
     "github": "https://github.com/arjunt-dev",
     "linkedin": "https://linkedin.com/in/arjun-t-762726220"
@@ -124,11 +123,18 @@
     },
     {
       "title": "Authentication & Security",
-      "items": ["JWT", "OAuth2", "RBAC", "Argon2 Hashing", "CORS", "Rate Limiting"]
+      "items": [
+        "JWT",
+        "OAuth2",
+        "RBAC",
+        "Argon2 Hashing",
+        "CORS",
+        "Rate Limiting"
+      ]
     },
     {
       "title": "Machine Learning",
-      "items": ["TensorFlow","PyTorch", "Scikit-Learn"]
+      "items": ["TensorFlow", "PyTorch", "Scikit-Learn"]
     }
   ],
 

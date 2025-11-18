@@ -1,0 +1,152 @@
+{
+   "profile": {
+    "name": "Arjun T",
+    "role": "Python Backend Developer | Team Lead",
+    "tagline": "Architecting secure, scalable backend systems with Django, DRF, FastAPI, Celery, Redis, Docker & ML integration.",
+    "phone": "+91 9961041854",
+    "email": "mailtoarjunt@zohomail.in",
+    "github": "https://github.com/arjunt-dev",
+    "linkedin": "https://linkedin.com/in/arjun-t-762726220"
+  },
+
+  "about": {
+    "summary": "Results-driven Python Backend Developer with experience architecting secure, scalable, and distributed backend systems using Django, DRF, FastAPI, Celery, Redis, PostgreSQL, and Docker. Strong focus on API design, multi-tenant systems, and background task pipelines.",
+    "focus": "Leading backend team at Cybios Technologies while building multi-tenant architectures, improving Celery task pipelines, and integrating ML models into production environments."
+  },
+  "experience": [
+    {
+      "title": "Team Lead / Python Backend Developer",
+      "company": "Cybios Technologies",
+      "period": "June 2025 - Present",
+      "location": "Ernakulam, Kerala",
+      "points": [
+        "Leading a team of 8 developers, improving delivery speed and code quality.",
+        "Designed scalable backend architectures supporting multi-tenant operations.",
+        "Improved Celery pipelines handling 200–300+ real-time & scheduled tasks daily.",
+        "Deployed production CI/CD using Gitea → Jenkins → Docker → Prometheus → Grafana."
+      ]
+    },
+    {
+      "title": "Python Backend Developer",
+      "company": "Cybios Technologies",
+      "period": "Nov 2023 - June 2025",
+      "location": "Ernakulam, Kerala",
+      "points": [
+        "Developed and optimized 40+ REST APIs using Django Rest Framework.",
+        "Improved API performance through query optimization & caching.",
+        "Implemented Celery + Redis workflows processing hundreds of background jobs.",
+        "Strengthened API security using OWASP practices and RBAC."
+      ]
+    },
+    {
+      "title": "Programmer Intern",
+      "company": "Cybios Technologies",
+      "period": "Aug 2023 - Nov 2023",
+      "location": "Ernakulam, Kerala",
+      "points": [
+        "Built Django modules and automation workflows for SDR hardware operations."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Shrimpmate - Multi-Tenant Mobile App Backend",
+      "tech": "Django REST Framework, PostgreSQL, Celery, Redis, TensorFlow",
+      "period": "June 2025 - Present",
+      "github": "",
+      "points": [
+        "Designed secure multi-tenant backend with custom permissions & role system.",
+        "Integrated TensorFlow EfficientNetB0 achieving 82% disease prediction accuracy.",
+        "Celery pipelines for hourly weather checks + firebase push notifications.",
+        "Added Stripe payments and WebSocket-based real-time leaderboard updates."
+      ]
+    },
+    {
+      "title": "Aegis - Chrome Extension Backend",
+      "tech": "FastAPI, Tortoise ORM, Argon2, Scikit-Learn",
+      "period": "Oct 2025 - Present",
+      "github": "https://github.com/arjunt-dev/aegis-chrome-extension",
+      "points": [
+        "Built FastAPI backend with JWT, OTP verification & rate-limited endpoints.",
+        "Trained ML ensemble (LR, RF, ExtraTrees, CatBoost) achieving 98% accuracy.",
+        "Async APIs for URL classification and extension communication."
+      ]
+    },
+    {
+      "title": "Employee Management System",
+      "tech": "Django REST Framework, SQLite3, Docxtpl, Django background tasks",
+      "period": "Oct 2025",
+      "github": "https://github.com/arjunt-dev/Employee-Management-System",
+      "points": [
+        "Built 50+ structured APIs for employee, attendance, payroll & leave workflows.",
+        "Implemented JWT HttpOnly cookie authentication improving security by 50%.",
+        "Automated payroll & attendance corrections via background tasks.",
+        "Generated DOCX payslips with secure download endpoints."
+      ]
+    },
+    {
+      "title": "Animal Intrusion Detection System — YOLOv5",
+      "tech": "Django, PyTorch, SQLite, Twilio API",
+      "period": "July 2022 - May 2023",
+      "github": "https://github.com/arjunt-dev/aninder_btech_project",
+      "points": [
+        "YOLOv5-based wildlife detection with 99.5% mAP@50, 91.1% precision, 100% recall on a custom dataset of 150+ images of 3 animal classes.",
+        "Real-time SMS alerts using Twilio for authorities and monitoring dashboard for authorities"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "title": "Languages",
+      "items": ["Python", "JavaScript", "TypeScript", "C", "C++", "Java"]
+    },
+    {
+      "title": "Frameworks",
+      "items": ["Django", "DRF", "FastAPI", "React", "Angular"]
+    },
+    {
+      "title": "ML/AI",
+      "items": ["TensorFlow", "PyTorch", "Scikit-Learn", "NLP"]
+    },
+    {
+      "title": "Backend & Realtime",
+      "items": ["Celery", "Redis", "WebSockets", "Django Channels", "Daphne"]
+    },
+    {
+      "title": "Databases",
+      "items": ["PostgreSQL", "MySQL", "SQLite", "MSSQL"]
+    },
+    {
+      "title": "DevOps / Deployments",
+      "items": ["Docker", "Nginx", "VPS Deployments"]
+    },
+    {
+      "title": "Authentication & Security",
+      "items": ["JWT", "OAuth2", "RBAC", "Argon2 Hashing", "CORS", "Rate Limiting"]
+    },
+    {
+      "title": "Machine Learning",
+      "items": ["TensorFlow","PyTorch", "Scikit-Learn"]
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master of Computer Applications",
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "period": "2024 - Present"
+    },
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Jawaharlal College of Engineering",
+      "period": "2019 - 2023"
+    }
+  ],
+
+  "footer": {
+    "copyright": "© 2025 Arjun",
+    "subtitle": "Full Stack Developer | Security Analyst | ML Enthusiast"
+  }
+}

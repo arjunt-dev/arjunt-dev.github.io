@@ -1,32 +1,32 @@
 {
   "profile": {
     "name": "Arjun T",
-    "role": "Python Backend Developer | Team Lead",
-    "tagline": "Architecting secure, scalable backend systems with Django, DRF, FastAPI, Celery, Redis, Docker & ML integration.",
+    "role": "Full stack Developer(Python + React) | Team Lead",
+    "tagline": "Architecting secure, scalable full stack systems with Django, DRF, FastAPI, Celery, Redis, Docker & ML integration.",
     "email": "mailtoarjunt@zohomail.in",
     "github": "https://github.com/arjunt-dev",
     "linkedin": "https://linkedin.com/in/arjun-t-762726220"
   },
 
   "about": {
-    "summary": "Results-driven Python Backend Developer with experience architecting secure, scalable, and distributed backend systems using Django, DRF, FastAPI, Celery, Redis, PostgreSQL, and Docker. Strong focus on API design, multi-tenant systems, and background task pipelines.",
-    "focus": "Leading backend team at Cybios Technologies while building multi-tenant architectures, improving Celery task pipelines, and integrating ML models into production environments."
+    "summary": "Results-driven Full stack Developer with experience architecting secure, scalable, and distributed backend systems using Django, DRF, FastAPI, Celery, Redis, PostgreSQL, and Docker and Industrial grade frontend systems using React. Strong focus on API design, multi-tenant systems,background task pipelines.",
+    "focus": "Leading full stack development team at Cybios Technologies while building multi-tenant architectures, improving Celery task pipelines, and integrating ML models into production environments."
   },
   "experience": [
     {
-      "title": "Team Lead / Python Backend Developer",
+      "title": "Team Lead / Full stack Developer",
       "company": "Cybios Technologies",
       "period": "June 2025 - Present",
       "location": "Ernakulam, Kerala",
       "points": [
         "Leading a team of 8 developers, improving delivery speed and code quality.",
         "Designed scalable backend architectures supporting multi-tenant operations.",
-        "Improved Celery pipelines handling 200–300+ real-time & scheduled tasks daily.",
-        "Deployed production CI/CD using Gitea → Jenkins → Docker → Prometheus → Grafana."
+        "Improved Celery pipelines handling 200 to 300+ real-time & scheduled tasks daily.",
+        "Deployed production CI/CD using Gitea, Jenkins, Prometheus,Grafana as docker containers."
       ]
     },
     {
-      "title": "Python Backend Developer",
+      "title": "Full stack Developer",
       "company": "Cybios Technologies",
       "period": "Nov 2023 - June 2025",
       "location": "Ernakulam, Kerala",
@@ -34,7 +34,8 @@
         "Developed and optimized 40+ REST APIs using Django Rest Framework.",
         "Improved API performance through query optimization & caching.",
         "Implemented Celery + Redis workflows processing hundreds of background jobs.",
-        "Strengthened API security using OWASP practices and RBAC."
+        "Strengthened API security using OWASP practices and RBAC.",
+        "Implemented Responsive and Industrial grade Frontend UIs using React.js."
       ]
     },
     {
@@ -63,13 +64,14 @@
     },
     {
       "title": "Aegis - Chrome Extension Backend",
-      "tech": "FastAPI, Tortoise ORM, Argon2, Scikit-Learn",
+      "tech": "FastAPI, Tortoise ORM, Argon2, Scikit-Learn, React, TailwindCSS",
       "period": "Oct 2025 - Present",
       "github": "https://github.com/arjunt-dev/aegis-chrome-extension",
       "points": [
         "Built FastAPI backend with JWT, OTP verification & rate-limited endpoints.",
         "Trained ML ensemble (LR, RF, ExtraTrees, CatBoost) achieving 98% accuracy.",
-        "Async APIs for URL classification and extension communication."
+        "Async APIs for URL classification and extension communication.",
+        "Built aesthetic and responsive frontend applications using React and TailwindCSS."
       ]
     },
     {
@@ -102,15 +104,15 @@
       "items": ["Python", "JavaScript", "TypeScript", "C", "C++", "Java"]
     },
     {
-      "title": "Frameworks",
-      "items": ["Django", "DRF", "FastAPI", "React", "Angular"]
+      "title": "Backend",
+      "items": ["Django", "DRF", "FastAPI"]
     },
     {
-      "title": "ML/AI",
-      "items": ["TensorFlow", "PyTorch", "Scikit-Learn", "NLP"]
+      "title": "Frontend",
+      "items": ["React", "Angular", "Bootstrap", "TailwindCSS"]
     },
     {
-      "title": "Backend & Realtime",
+      "title": "Background tasks & Realtime communication",
       "items": ["Celery", "Redis", "WebSockets", "Django Channels", "Daphne"]
     },
     {
@@ -134,7 +136,7 @@
     },
     {
       "title": "Machine Learning",
-      "items": ["TensorFlow", "PyTorch", "Scikit-Learn"]
+      "items": ["TensorFlow", "PyTorch", "Scikit-Learn", "NLP"]
     }
   ],
 
